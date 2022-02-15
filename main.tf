@@ -1,4 +1,4 @@
-module "google_group" {
+module "group" {
   source = "./modules"
 
   id           = var.id
